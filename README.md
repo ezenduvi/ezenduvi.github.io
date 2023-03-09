@@ -3,7 +3,7 @@
 
 ## Purpose
 
-The purpose of this resume is to describe the practical steps of how to host and format a resume using Github pages while relating those practical steps to the general principles of current Technical Writing as explained in Andrew Etter's book Modern Technical Writing
+The purpose of this resume is to describe the practical steps of how to host and format a resume using Github pages while relating those practical steps to the general principles of current Technical Writing as explained in Andrew Etter's book Modern Technical Writing.
 
 ## Prerequisites
 The prerequisites needed to host a resume on a Github page include:  
@@ -23,7 +23,7 @@ Andrew Etter highlights the importance of using a Distributed Version Control to
 1. Log into your Github Account with your username and password.
 2. Click the "new" button on the top left part of the screen to begin creating a new repository.
 3. Enter "Ownername.github.io" in Repository name field.
-4. Select the "public" option to make repository public
+4. Select the "public" option to make repository public.
 5. Click the "create repository" button at the end of the page.  
 
 RESULT: A new page appears, it is the homepage of your newly created repository.
@@ -37,7 +37,7 @@ Your resume should be formatted in markdown which is a lightweight markup langua
 3. Add a comment under "commit changes" to describe what change you made i.e. adding a new file.
 4. Click the "Commit changes" button.
 
-RESULT: your resume now appears on the home page of your repository
+RESULT: your resume now appears on the home page of your repository.
 
 ### Making sure my resume can be recognized as the main page of my Github pages site
 
@@ -68,7 +68,7 @@ RESULT: Your site has been deployed with your resume as the main page.
 
 1. Click on "settings" at the top of your repository homepage.
 2. Click on "Pages" tab on the left side of the screen.
-3. Click "view site" at the top of the page.
+3. Click "view site" at the top of the page as shown in gif above.
 
 RESULT: A new web-page opens in another tab which displays your hosted resume.
 
@@ -91,7 +91,7 @@ Andrew Etter recommends creating a "README.md" file in the root of the repositor
 1. Click on "add file" on the home page.
 2. Select "create a new file" from the drop down list.
 3. Enter "README.md" as the name of the file.
-4. Enter the information you would like to be in the readme
+4. Enter the information you would like to be in the readme.
 5. Commit the file.
 
 RESULT: Your README.md file contents will be displayed on the homepage of your repository.
@@ -104,8 +104,9 @@ RESULT: Your README.md file contents will be displayed on the homepage of your r
 
 ## Authors and Acknowledgments
 
-* [Readme.so](https://readme.so/editor) was a good template tool for my initial Readme.md creation
+* [Readme.so](https://readme.so/editor) was a good template tool for my initial Readme.md creation.
 * Thankful for the reviews from my group members Cody, Hong and Rolf.
+* Credits to [Aliou/ace](https://github.com/aliou/ace) for the theme used for my resume.
 
 ## FAQs
 1. "Why is Markdown better than a word
