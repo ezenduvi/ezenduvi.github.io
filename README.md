@@ -106,7 +106,7 @@ RESULT: Your README.md file contents will be displayed on the homepage of your r
 
 * [Readme.so](https://readme.so/editor) was a good template tool for my initial Readme.md creation.
 * Thankful for the reviews from my group members Cody, Hong and Rolf.
-* Credits to [Aliou/ace](https://github.com/aliou/ace) for the theme used for my resume.
+* [Architect](https://github.com/pages-themes/architect) is the theme used for my resume.
 
 ## FAQs
 1. "Why is Markdown better than a word
