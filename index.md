@@ -6,7 +6,7 @@
 <body>
     <header>
         <h1>Welcome to My Profile</h1>
-        <img src="profile.jpg" alt="Profile Picture" style="width:200px;height:200px;">
+        <p><img src="profile.jpg" alt="Profile Picture" style="width:200px;height:200px;"></p>
     </header>
     <section>
         <h2>Resumes</h2>
