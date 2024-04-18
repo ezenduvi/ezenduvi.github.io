@@ -14,7 +14,7 @@
         <h2>Resumes</h2>
         <ul>
             <li><a href="ComputerScienceResume.pdf" target="_blank">Computer Science Resume</a></li>
-            <li><a href="RegularResume.pdf" target="_blank">Regular Resume</a></li>
+            <li><a href="CusstomerServiceResume.pdf" target="_blank">Regular Resume</a></li>
         </ul>
     </section>
 </body>
