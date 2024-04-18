@@ -9,6 +9,7 @@
         <p><img src="profile.jpg" alt="Profile Picture" style="width:200px;height:200px;"></p>
     </header>
     <section>
+        <img src="profile.jpg" alt="Profile Picture" style="width:200px;height:200px;">
         <h2>Resumes</h2>
         <ul>
             <li><a href="ComputerScienceResume.pdf" target="_blank">Computer Science Resume</a></li>
