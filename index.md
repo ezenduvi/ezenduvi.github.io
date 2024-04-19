@@ -11,7 +11,7 @@
         <h2><img src="profile.jpg" alt="Profile Picture" style="width:200px;height:200px;"></h2>
         <h2>Resumes</h2>
         <ul>
-            <li><a href="ComputerScienceResume.pdf" target="_blank">Computer Science Resume</a></li>
+            <li><a href="NewComputerScienceResume.pdf" target="_blank">Computer Science Resume</a></li>
             <li><a href="CusstomerServiceResume.pdf" target="_blank">Regular Resume</a></li>
         </ul>
     </section>
